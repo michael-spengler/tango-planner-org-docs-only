@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572907058100,
+  "timestamp": 1573057951543,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/es2015-polyfills.bda95d5896422d031328.js",
         "/index.html",
-        "/main.0056fd2a3eef3a23b9df.js",
+        "/main.b4af8618c5c9a380b7cb.js",
         "/polyfills.8bbb231b43165d65d357.js",
         "/runtime.26209474bfa8dc87a77c.js",
         "/styles.7caa6ef4e669ae29a193.css"
@@ -277,8 +277,8 @@
     "/assets/win8-tile-310x310.png": "e24ac0f55a3b3273c1b0fc66e31fb8f26adc6853",
     "/assets/win8-tile-70x70.png": "400083cb7f184cd15397305df58adc5935e17def",
     "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
-    "/index.html": "101c3c7af3857ea7d64d9c3c95e5c3d7a644ef06",
-    "/main.0056fd2a3eef3a23b9df.js": "4c8c17964c79233cccdffa2add9fc02978ad4f38",
+    "/index.html": "b469a89f134fb0b53f1480437502f25196eea5bf",
+    "/main.b4af8618c5c9a380b7cb.js": "e9ab7bcececa72e9aa92ae26a4d45173b15a54ac",
     "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.7caa6ef4e669ae29a193.css": "e6f52b774f6633a5b9ac2b8f64d79fb24220d182"
