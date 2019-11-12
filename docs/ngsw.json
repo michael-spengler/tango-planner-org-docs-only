@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1573079043036,
+  "timestamp": 1573518225431,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,11 +8,13 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/es2015-polyfills.bda95d5896422d031328.js",
         "/index.html",
-        "/main.f311cbb27786b3e15147.js",
-        "/polyfills.8bbb231b43165d65d357.js",
-        "/runtime.26209474bfa8dc87a77c.js",
+        "/main-es2015.9faa90d4342976b96b95.js",
+        "/main-es5.9faa90d4342976b96b95.js",
+        "/polyfills-es2015.2987770fde9daa1d8a2e.js",
+        "/polyfills-es5.fefa72e12b2a2d6ef7f2.js",
+        "/runtime-es2015.edb2fcf2778e7bf1d426.js",
+        "/runtime-es5.edb2fcf2778e7bf1d426.js",
         "/styles.7caa6ef4e669ae29a193.css"
       ],
       "patterns": []
@@ -276,11 +278,13 @@
     "/assets/win8-tile-310x150.png": "c9b5e4ef3fd0da4e21dae5ae76bdf6a4b5243a8d",
     "/assets/win8-tile-310x310.png": "e24ac0f55a3b3273c1b0fc66e31fb8f26adc6853",
     "/assets/win8-tile-70x70.png": "400083cb7f184cd15397305df58adc5935e17def",
-    "/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
-    "/index.html": "93c6db876075056f8f9c0c9739083ed1833adcb9",
-    "/main.f311cbb27786b3e15147.js": "bb8514c93ee7dd5e900eef422d05b3986acb0fa5",
-    "/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
-    "/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/index.html": "c041ec9c690748437cc200eb48693c240e1bb4eb",
+    "/main-es2015.9faa90d4342976b96b95.js": "44f36ba9b6198cd1bc160b2e8a893b7326a94cdb",
+    "/main-es5.9faa90d4342976b96b95.js": "57b7f073c6ef922f27e863162b6f8494a227239b",
+    "/polyfills-es2015.2987770fde9daa1d8a2e.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "/polyfills-es5.fefa72e12b2a2d6ef7f2.js": "c1b326602e7b72c79de60cd3c2fd8f60a97bf078",
+    "/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/styles.7caa6ef4e669ae29a193.css": "e6f52b774f6633a5b9ac2b8f64d79fb24220d182"
   },
   "navigationUrls": [
